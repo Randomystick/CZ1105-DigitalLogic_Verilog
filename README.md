@@ -1,2 +1,3 @@
 # CZ1105-Verilog
  
+NTU SCSE Y1S2 | DIGITAL LOGIC
