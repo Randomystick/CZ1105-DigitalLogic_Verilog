@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/.PROGRAMMING/Verilog/CZ1105-Verilog/Lab4/Lab4/Lab4.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/.PROGRAMMING/Verilog/CZ1105-Verilog/Lab4/Lab4/Lab4.srcs/sources_1/new/vsevenseg.v,1616402190,verilog,,C:/.PROGRAMMING/Verilog/CZ1105-Verilog/Lab4/Lab4/vsevenseg_tb.v,,vsevenseg,,,,,,,,
+C:/.PROGRAMMING/Verilog/CZ1105-Verilog/Lab4/Lab4/seg2digit_synth.v,1585625603,verilog,,C:/.PROGRAMMING/Verilog/CZ1105-Verilog/Lab4/Lab4/Lab4.srcs/sources_1/new/vsevenseg.v,,LUT6;MUXF7;OBUF;seg2digit,,,,,,,,
+C:/.PROGRAMMING/Verilog/CZ1105-Verilog/Lab4/Lab4/vsevenseg_tb.v,1585622991,verilog,,,,vsevenseg_tb,,,,,,,,

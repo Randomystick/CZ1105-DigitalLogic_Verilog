@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Mar 23 12:45:30 2021
+# Process ID: 28000
+# Current directory: C:/.PROGRAMMING/Verilog/CZ1105-Verilog/Lab4/Lab4_part2/Lab4_part2.runs/synth_1
+# Command line: vivado.exe -log segtoggle.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source segtoggle.tcl
+# Log file: C:/.PROGRAMMING/Verilog/CZ1105-Verilog/Lab4/Lab4_part2/Lab4_part2.runs/synth_1/segtoggle.vds
+# Journal file: C:/.PROGRAMMING/Verilog/CZ1105-Verilog/Lab4/Lab4_part2/Lab4_part2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source segtoggle.tcl -notrace
